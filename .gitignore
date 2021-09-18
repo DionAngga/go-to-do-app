@@ -17,7 +17,6 @@ package-lock.json
 
 # misc
 .DS_Store
-.env
 .env.local
 .env.development.local
 .env.test.local
@@ -26,3 +25,33 @@ package-lock.json
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.docker/mongodb/data/db/_mdb_catalog.wt
+.docker/mongodb/data/db/collection-0--3333301166452379343.wt
+.docker/mongodb/data/db/collection-2--3333301166452379343.wt
+.docker/mongodb/data/db/collection-7--3333301166452379343.wt
+.docker/mongodb/data/db/collection-4--3333301166452379343.wt
+.docker/mongodb/data/db/index-1--3333301166452379343.wt
+.docker/mongodb/data/db/index-3--3333301166452379343.wt
+.docker/mongodb/data/db/index-6--3333301166452379343.wt
+.docker/mongodb/data/db/index-8--3333301166452379343.wt
+.docker/mongodb/data/db/index-9--3333301166452379343.wt
+.docker/mongodb/data/db/mongod.lock
+.docker/mongodb/data/db/sizeStorer.wt
+.docker/mongodb/data/db/storage.bson
+.docker/mongodb/data/db/WiredTiger
+.docker/mongodb/data/db/WiredTiger.lock
+.docker/mongodb/data/db/WiredTiger.turtle
+.docker/mongodb/data/db/WiredTigerHS.wt
+.docker/mongodb/data/db/WiredTiger.wt
+.docker/mongodb/data/db/journal/WiredTigerPreplog.0000000002
+.docker/mongodb/data/db/journal/WiredTigerPreplog.0000000001
+.docker/mongodb/data/db/journal/WiredTigerLog.0000000008
+.docker/mongodb/data/db/diagnostic.data/metrics.2021-09-18T01-31-26Z-00000
+.docker/mongodb/data/db/diagnostic.data/metrics.2021-09-18T07-57-54Z-00000
+.docker/mongodb/data/db/diagnostic.data/metrics.2021-09-17T17-03-24Z-00000
+.docker/mongodb/data/db/diagnostic.data/metrics.2021-09-17T01-37-27Z-00000
+.docker/mongodb/data/db/diagnostic.data/metrics.2021-09-16T08-15-16Z-00000
+.docker/mongodb/data/db/diagnostic.data/metrics.2021-09-16T08-06-12Z-00000
+.docker/mongodb/data/db/diagnostic.data/metrics.2021-09-16T08-05-51Z-00000
+.docker/mongodb/data/db/diagnostic.data/metrics.2021-09-16T09-40-34Z-00000
+.docker/mongodb/data/db/index-5--3333301166452379343.wt
